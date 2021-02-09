@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/CompisiteDesignPattern/Node.h
+
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/CompisiteDesignPattern/RootNode.cpp
+RootNode.h
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/CompisiteDesignPattern/RootNode.h
+iostream
+-
+
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/CompisiteDesignPattern/RootNode.h
+Node.h
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/CompisiteDesignPattern/Node.h
+list
+-
+

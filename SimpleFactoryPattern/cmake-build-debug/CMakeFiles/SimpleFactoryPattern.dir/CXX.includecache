@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/SimpleFactoryPattern/Circle.h
+Shape.h
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/SimpleFactoryPattern/Shape.h
+
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/SimpleFactoryPattern/Rectangle.h
+Shape.h
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/SimpleFactoryPattern/Shape.h
+
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/SimpleFactoryPattern/Shape.h
+
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/SimpleFactoryPattern/ShapeFactory.h
+Shape.h
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/SimpleFactoryPattern/Shape.h
+Circle.h
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/SimpleFactoryPattern/Circle.h
+Triangle.h
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/SimpleFactoryPattern/Triangle.h
+Rectangle.h
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/SimpleFactoryPattern/Rectangle.h
+string
+-
+
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/SimpleFactoryPattern/Triangle.h
+Shape.h
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/SimpleFactoryPattern/Shape.h
+
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/SimpleFactoryPattern/main.cpp
+iostream
+-
+Shape.h
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/SimpleFactoryPattern/Shape.h
+ShapeFactory.h
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/SimpleFactoryPattern/ShapeFactory.h
+
