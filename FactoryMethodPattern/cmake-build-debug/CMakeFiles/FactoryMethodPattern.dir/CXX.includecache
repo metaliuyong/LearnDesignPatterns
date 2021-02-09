@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/FactoryMethodPattern/GifReaderFactory.h
+Reader.h
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/FactoryMethodPattern/Reader.h
+ReaderFactory.h
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/FactoryMethodPattern/ReaderFactory.h
+
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/FactoryMethodPattern/JpgReaderFactory.h
+ReaderFactory.h
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/FactoryMethodPattern/ReaderFactory.h
+
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/FactoryMethodPattern/PngReaderFactory.h
+Reader.h
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/FactoryMethodPattern/Reader.h
+ReaderFactory.h
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/FactoryMethodPattern/ReaderFactory.h
+
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/FactoryMethodPattern/Reader.h
+
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/FactoryMethodPattern/ReaderFactory.h
+Reader.h
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/FactoryMethodPattern/Reader.h
+
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/FactoryMethodPattern/main.cpp
+Reader.h
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/FactoryMethodPattern/Reader.h
+ReaderFactory.h
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/FactoryMethodPattern/ReaderFactory.h
+JpgReaderFactory.h
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/FactoryMethodPattern/JpgReaderFactory.h
+PngReaderFactory.h
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/FactoryMethodPattern/PngReaderFactory.h
+GifReaderFactory.h
+/Users/liuyong/Documents/CLionProjects/LearnDesignPattern/FactoryMethodPattern/GifReaderFactory.h
+
