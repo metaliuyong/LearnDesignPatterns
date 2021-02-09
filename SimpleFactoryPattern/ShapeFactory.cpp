@@ -15,7 +15,6 @@ Shape* ShapeFactory::manufactureShape(std::string shapeType) {
         shape = new Rectangle();
     }else{
         std::cout << "Factory had not define the shape you want." << std::endl;
-        return nullptr;
     }
     return shape;
 }
